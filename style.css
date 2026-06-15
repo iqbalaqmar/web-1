@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+table{
+    background-color: white;
+}
+
+button{
+    background-color: navy;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: orange;
+}
